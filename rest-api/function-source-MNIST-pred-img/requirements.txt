@@ -1,0 +1,6 @@
+Flask==2.3.3
+# # gunicorn
+tensorflow==2.15.0
+numpy==1.26.2
+pillow==10.1.0
+google-cloud-storage

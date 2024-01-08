@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+/idyllic-kiln-407416-9360d6ff13ca.json
+/random-developments-a1024f5daa25.json
+
+# Ignore virtual environment
+/chatbot_env/
