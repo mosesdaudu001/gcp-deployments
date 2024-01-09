@@ -1,3 +1,4 @@
+# This is not a part of the project, but is used for another project
 from flask import Flask, request, render_template
 import requests
 import os
